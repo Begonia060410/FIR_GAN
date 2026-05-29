@@ -9,9 +9,6 @@ Multimodal image fusion integrates complementary information across modalities t
 
 <img width="2431" height="563" alt="1" src="https://github.com/user-attachments/assets/71cd1c81-fb73-4801-b82c-2eb70c01dda0" />
 Fig. 1 Visual comparison of different image fusion algorithms
-<img width="1646" height="993" alt="2" src="https://github.com/user-attachments/assets/06dc572b-0b9d-4fab-8d91-7f1485b050a9" />
-Fig. 2 Conceptual framework of the proposed FIR-GAN.(a) Full architecture of the system.(b) Patch-level IQA index–guided training optimization strategy.(c) Structure of the generator network.(d) Structure of the discriminator network.
-
 
 
 # DOI 
