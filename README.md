@@ -31,7 +31,7 @@ A permanent archived version with DOI is available at: https://doi.org/10.5281/z
   *2.  Gray image*
   `python test_gray.py`
   
-# Cite
+# Citation
 If this work has been helpful to you, please cite the following LaTeX source code: 
 
 @article{FIRGAN2026,
