@@ -11,7 +11,7 @@ Multimodal image fusion integrates complementary information across modalities t
 If this work has been helpful to you, please cite the following LaTeX source code.
 
 @article{FIRGAN2026,
-  title={High-Fidelity Multimodal Image Fusion with Frequency-Domain Attention for Robust Visual Detection},
-  journal={The Visual Computer},
-  year={2026}
+title={High-Fidelity Multimodal Image Fusion with Frequency-Domain Attention for Robust Visual Detection},
+journal={The Visual Computer},
+year={2026}
 }
