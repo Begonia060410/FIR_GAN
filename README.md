@@ -12,6 +12,7 @@ Fig. 2 Conceptual framework of the proposed FIR-GAN.(a) Full architecture of the
 
 
 
+A permanent archived version with DOI is available at: https://doi.org/10.5281/zenodo.20289332.
 
 If this work has been helpful to you, please cite the following LaTeX source code.
 
