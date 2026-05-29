@@ -1,0 +1,12 @@
+xlwt
+python 3.8
+torch 2.1
+cuda 12.1
+h5py
+einops
+PyWavelets
+pillow
+timm
+opencv-python
+numpy
+
