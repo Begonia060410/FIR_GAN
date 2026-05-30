@@ -20,7 +20,7 @@ def input_setup(config, data_dir, ir_flag, index=0):
 
     # Load data path
     if config.is_train:
-        # 取到所有的原始图片的地址
+        
         data = prepare_data(config, dataset=data_dir)
     else:
         data = prepare_data(config, dataset=data_dir)
@@ -85,7 +85,7 @@ def prepare_data(config, dataset):
         data = glob.glob(os.path.join(data_dir, "*.png"))
         data.extend(glob.glob(os.path.join(data_dir, "*.tif")))
         data.extend(glob.glob(os.path.join(data_dir, "*.jpg")))
-        # 将图片按序号排序
+        
         data.sort(key=lambda x: int(x[len(data_dir) + 1:-4]))
     else:
         data_dir = os.path.join(os.sep, (os.path.join(os.getcwd(), dataset)))
