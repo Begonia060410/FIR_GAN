@@ -32,7 +32,7 @@ A permanent archived version with DOI is available at: https://doi.org/10.5281/z
   `python test_gray.py`
   
 # Citation
-If this work has been helpful to you, please cite the following LaTeX source code: 
+If this work has been helpful to you, please cite the following code: 
 
 @article{FIRGAN2026,
 
