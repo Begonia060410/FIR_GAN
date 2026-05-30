@@ -17,8 +17,7 @@ __all__ = ['libsvm', 'svm_problem', 'svm_parameter',
 try:
 	dirname = path.dirname(path.abspath(__file__))
 	if sys.platform == 'win32':
-		# libsvm = CDLL(path.join(dirname, r'..\windows\libsvm.dll'))
-		libsvm = CDLL(r'G:\1号机\ATGAN_shuffle(2)\python\windows\libsvm.dll')
+		libsvm = CDLL(path.join(dirname, r'..\windows\libsvm.dll'))
 	else:
 		# libsvm = CDLL(path.join(dirname, '../libsvm.so.3'))
 		libsvm = CDLL('/media/qzyx/dataset/Begonia/ATGAN/python/libsvm.so.3')
